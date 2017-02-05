@@ -1,0 +1,4 @@
+Alabama,Montgomery,32,86
+Alaska,Juneau,58,134
+Arizona,Phoenix,33,112
+Arkansas,Little Rock,34,92
